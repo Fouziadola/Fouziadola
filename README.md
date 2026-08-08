@@ -1,2 +1,30 @@
-Hi, I'm Fouzia — a developer working with Java, C, and JavaFX. I build small desktop applications and enjoy exploring game development on the side. Always learning, and open to collaborating on interesting projects. Feel free to reach out at me-fouziadola10@gmail.com if you'd like to connect.
+# Hi, I'm Fouzia 👋
 
+### Computer Science Student | Java Developer | Machine Learning Enthusiast
+
+I'm a Computer Science student interested in software development,
+machine learning, and building practical applications.
+
+### 👩‍💻 What I Work With
+
+- 💻 Java, C, Python
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ MySQL
+- 🧠 Machine Learning & Deep Learning
+- 🖥️ JavaFX
+- 🔧 Git & GitHub
+
+### 🚀 Currently Working On
+
+- Machine learning and multimodal AI projects
+- Java desktop applications
+- Academic and personal software projects
+
+### 📌 Featured Projects
+
+Check out my pinned repositories below to see some of my work.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email:fouziadola10@gmail.com
