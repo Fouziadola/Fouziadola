@@ -26,5 +26,5 @@ Check out my pinned repositories below to see some of my work.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/fouzia-dola-420553294?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email:fouziadola10@gmail.com
