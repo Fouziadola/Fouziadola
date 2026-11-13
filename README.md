@@ -1,6 +1,6 @@
 # Hi, I'm Fouzia 👋
 
-### Computer Science Student | Java Developer | Machine Learning Enthusiast
+### Computer Science Student | Machine Learning Enthusiast
 
 I'm a Computer Science student interested in software development,
 machine learning, and building practical applications.
@@ -19,6 +19,7 @@ machine learning, and building practical applications.
 - Machine learning and multimodal AI projects
 - Java desktop applications
 - Academic and personal software projects
+- Next.js ( making a journal application)
 
 ### 📌 Featured Projects
 
